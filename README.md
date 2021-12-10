@@ -1,5 +1,5 @@
-### Hi there 👋
-
+##### Пишу на заказ джаваскрипты и майнкрафт плагины/I write to order short scripts and minecraft plugins (AlexanderDV.ru@gmai.com)
+##### Ради интереса, тренировки и решения моих проблем/For fun, training and solving my problems - [Java, JS/HTML/CSS, Unity/C#](https://github.com/AlexanderDV-ru)
 <!--
 **AlexanderDV-ru/AlexanderDV-ru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
